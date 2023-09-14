@@ -40,8 +40,8 @@ nav ul {
     color: #ffffff;
     z-index: 2;
     position: absolute;
-    font-size: 3rem;
+    font-size: 2rem;
     left: 50%;
     top: 75%;
-    transform: translate(-50%, -75%);
+    transform: translate(-50%, -25%);
 }
